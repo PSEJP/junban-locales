@@ -560,6 +560,15 @@ msgstr ""
 msgid "checker_notification"
 msgstr "あなたの順番になります！"
 
+msgid "checker_admin_description"
+msgstr "順番チェッカーに表示される文字を修正できます。"
+
+msgid "checker_title_placeholder"
+msgstr "デフォルトはお店の名称を表示します"
+
+msgid "checker_description_placeholder"
+msgstr "お客様に伝えたいメッセージや電話番号を入力してください。"
+
 msgid "app_toggle_notification_disabled"
 msgstr "閉店する"
 
