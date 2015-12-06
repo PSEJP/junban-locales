@@ -15,7 +15,7 @@ msgid "SITENAME"
 msgstr "順番コンシェル"
 
 msgid "SITE_DESCRIPTION"
-msgstr "順番コンシェル"
+msgstr "順番待ちが発生する全ての施設で、簡単に始められる順番管理システム、それが「順番コンシェル」です。"
 
 msgid "COMPANY_NAME"
 msgstr "一般社団法人PCサポート技術者協会"
