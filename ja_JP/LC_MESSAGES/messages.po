@@ -788,3 +788,6 @@ msgstr "確認する"
 
 msgid "RULE_OF_USE"
 msgstr "利用規約"
+
+msgid "mailcheck"
+msgstr "もしかして"
