@@ -673,6 +673,9 @@ msgstr "する"
 msgid "OFF"
 msgstr "しない"
 
+msgid "kiosk_qr_enabled"
+msgstr "登録完了時の画面にスマートフォン用QRコードの発行画面を表示しますか?"
+
 msgid "kiosk_qr_enabled_on"
 msgstr "<b>「表示する」</b>。QRコード発行「する」「しない」を選択できます。"
 
@@ -684,6 +687,9 @@ msgstr "発行する"
 
 msgid "kiosk_qr_no"
 msgstr "発行しない"
+
+msgid "kiosk_sign_animation_enabled"
+msgstr "サイン画面に「スズキ」の展示動画を表示させますか?"
 
 msgid "waiting"
 msgstr "お待ち"
