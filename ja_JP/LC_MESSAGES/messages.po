@@ -689,7 +689,7 @@ msgid "kiosk_qr_no"
 msgstr "発行しない"
 
 msgid "kiosk_sign_animation_enabled"
-msgstr "サイン画面に「スズキ」の展示動画を表示させますか?"
+msgstr "サイン画面に「スズキ」のサイン例を表示させますか?"
 
 msgid "waiting"
 msgstr "お待ち"
