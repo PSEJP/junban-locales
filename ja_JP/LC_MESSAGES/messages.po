@@ -797,3 +797,6 @@ msgstr "利用規約"
 
 msgid "mailcheck"
 msgstr "もしかして"
+
+msgid "knowledge_base"
+msgstr "ヘルプ＆ガイド"
