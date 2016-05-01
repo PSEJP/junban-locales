@@ -338,6 +338,9 @@ msgstr "プレビュー"
 msgid "cancel"
 msgstr "キャンセル"
 
+msgid "set"
+msgstr "セット"
+
 msgid "undo"
 msgstr "取消"
 
@@ -800,3 +803,9 @@ msgstr "もしかして"
 
 msgid "knowledge_base"
 msgstr "ヘルプ＆ガイド"
+
+msgid "auto_cleanups"
+msgstr "自動クリア時間"
+
+msgid "auto_cleanups_max_records"
+msgstr "これ以上レコードを追加することは出来ません。"
