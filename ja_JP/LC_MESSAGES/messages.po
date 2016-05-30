@@ -809,3 +809,6 @@ msgstr "自動クリア時間"
 
 msgid "auto_cleanups_max_records"
 msgstr "これ以上レコードを追加することは出来ません。"
+
+msgid "customer_notes"
+msgstr "メモ"
