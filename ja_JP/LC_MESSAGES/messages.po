@@ -812,3 +812,6 @@ msgstr "これ以上レコードを追加することは出来ません。"
 
 msgid "customer_notes"
 msgstr "メモ"
+
+msgid "back_to_waiting_list"
+msgstr "お待ちリストに戻す"
