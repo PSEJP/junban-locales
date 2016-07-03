@@ -815,3 +815,6 @@ msgstr "メモ"
 
 msgid "back_to_waiting_list"
 msgstr "お待ちリストに戻す"
+
+msgid "move_to_waiting"
+msgstr "お待ちリストに戻す"
