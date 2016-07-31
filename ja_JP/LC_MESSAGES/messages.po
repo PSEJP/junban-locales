@@ -818,3 +818,6 @@ msgstr "お待ちリストに戻す"
 
 msgid "move_to_waiting"
 msgstr "お待ちリストに戻す"
+
+msgid "partner_code"
+msgstr "パートナーコード"
