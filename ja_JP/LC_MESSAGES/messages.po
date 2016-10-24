@@ -821,3 +821,12 @@ msgstr "お待ちリストに戻す"
 
 msgid "partner_code"
 msgstr "パートナーコード"
+
+msgid "mobile_number"
+msgstr "携帯番号"
+
+msgid "source"
+msgstr "出処"
+
+msgid "source_mobile"
+msgstr "スマホ"
