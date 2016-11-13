@@ -830,3 +830,9 @@ msgstr "出処"
 
 msgid "source_mobile"
 msgstr "スマホ"
+
+msgid "kiosk_tablet"
+msgstr "タブレット"
+
+msgid "kiosk_mobile"
+msgstr "モバイル"
