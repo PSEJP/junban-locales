@@ -836,3 +836,21 @@ msgstr "タブレット"
 
 msgid "kiosk_mobile"
 msgstr "モバイル"
+
+msgid "sms_timing"
+msgstr "SMSコール機能"
+
+msgid "sms_timing_before_count"
+msgstr "SMSお知らせタイミング  N人前"
+
+msgid "sms_enabled"
+msgstr "SMS 有効"
+
+msgid "sms_disabled"
+msgstr "SMS 無効"
+
+msgid "sms_text"
+msgstr "SMSお知らせ内容"
+
+msgid "sms_default_text"
+msgstr "SMSお知らせタイミング　あと % 人で順番が来る"
