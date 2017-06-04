@@ -854,3 +854,6 @@ msgstr "SMSお知らせ内容"
 
 msgid "sms_default_text"
 msgstr "SMSお知らせタイミング　あと % 人で順番が来る"
+
+msgid "mobile_condition"
+msgstr "モバイル登録受付条件"
