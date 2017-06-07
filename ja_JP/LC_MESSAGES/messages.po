@@ -837,6 +837,12 @@ msgstr "タブレット"
 msgid "kiosk_mobile"
 msgstr "モバイル"
 
+msgid "kiosk_mobile_tab"
+msgstr "モバイルキオスクの説明"
+
+msgid "kiosk_mobile_help"
+msgstr "モバイルキオスクの最初の画面の表示をカスタマイズできます"
+
 msgid "sms_timing"
 msgstr "SMSコール機能"
 
